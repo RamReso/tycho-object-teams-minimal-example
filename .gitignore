@@ -1,0 +1,5 @@
+target
+**/bin/**
+de.jexam.parent/de.jexam.product/target.zip
+**/.settings/**
+**.project

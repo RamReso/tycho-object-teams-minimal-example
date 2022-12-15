@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Application
+Bundle-SymbolicName: de.jexam.headless.application;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: de.jexam.headless.application.Activator
+Bundle-Vendor: jexam
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: de.jexam.headless.application
+Bundle-ActivationPolicy: lazy
